@@ -1,0 +1,24 @@
+.terget {
+    text-decoration: none;
+    background-image: linear-gradient(green, gray);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: azure;
+
+}
+
+marquee {
+    color: azure;
+}
+
+.table {
+
+
+    height: 450px;
+    width: 600px;
+    text-align: center;
+    background-color: rgb(21, 25, 25);
+    color: antiquewhite;
+    border-color: aqua;
+
+}
